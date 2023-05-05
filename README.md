@@ -1,2 +1,4 @@
 # parouimparsolitario
-Par ou Ímpar para solitários
+Script para jogar par ou ímpar com a máquina
+
+_pretendo criar uma GUI_
